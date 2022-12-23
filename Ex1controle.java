@@ -2,12 +2,11 @@ package controle;
 
 import java.util.Scanner;
 
-public class Ex1controle {
+public class Exercicio1 {
 	
 	public static void main(String[] args) {
 		
-		//1. Criar um programa que receba um número e 
-		//verifique se ele está entre 0 e 10 e é par;
+		//Criar um programa que receba um número e verifique se ele está entre 0 e 10 e é par.
 		
 		Scanner entrada = new Scanner(System.in);
 		
