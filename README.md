@@ -1,5 +1,5 @@
 # exercicios-java-controle
-Exercícios realizados durante o módulo 4 do curso Java 2020 COMPLETO: Do Zero ao Profissional + Projetos, por Nélio Alves.
+Exercícios realizados durante o módulo 4 do curso Java 2020 COMPLETO: Do Zero ao Profissional + Projetos por Nélio Alves.
 
 Estruturas de Controle
 
